@@ -26,7 +26,7 @@
 * DJANGO
 * GOOGLE ANALYTICS
 
-<h2 align="center">You can reach me at :alien:</h2>
+<h2>You can reach me at :alien:</h2>
 
 
 <h2 align="center">My stack :man_technologist:</h2>
