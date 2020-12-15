@@ -2,7 +2,7 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Dipto Chakrabarty](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* I am [Gabriel Santos](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
 
 * I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
 
@@ -27,6 +27,14 @@
 * GOOGLE ANALYTICS
 
 <h2>You can reach me at :alien:</h2>
+
+[Facebook](https://python.org/)
+
+[Instagram](https://python.org/)
+
+[LinkedIn](https://python.org/)
+
+[Blog](https://python.org/)
 
 
 
