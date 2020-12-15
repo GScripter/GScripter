@@ -28,7 +28,7 @@
 
 <h2>You can reach me at :alien:</h2>
 
-[https://imagepng.org/wp-content/uploads/2017/09/facebook-icone-icon.png](https://python.org/)
+[Facebook](https://python.org/)
 
 [Instagram](https://python.org/)
 
