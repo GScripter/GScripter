@@ -29,7 +29,7 @@
 <h2>You can reach me at :alien:</h2>
 
 
-[<img width=25 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
+[<img width=25 src="content://com.android.chrome.FileProvider/images/screenshot/16081611182081191581746.jpg">][facebook]
 
 [Instagram](https://python.org/)
 
