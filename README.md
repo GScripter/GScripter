@@ -28,7 +28,8 @@
 
 <h2>You can reach me at :alien:</h2>
 
-[Facebook](https://python.org/)
+
+[<img width=25 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 
 [Instagram](https://python.org/)
 
@@ -36,6 +37,7 @@
 
 [Blog](https://python.org/)
 
+[facebook]:python.org
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
