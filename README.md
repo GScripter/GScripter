@@ -31,7 +31,7 @@
 
 <a href="https://www.facebook.com/speedboy.speed.737"><img width=45 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>
 
-[Instagram](https://python.org/)
+<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=45 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a>
 
 [LinkedIn](https://python.org/)
 
@@ -40,8 +40,6 @@
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
-
 
 
 <h4 align="center">Top langs :tongue:</h4>
