@@ -29,9 +29,8 @@
 <h2>You can reach me at :alien:</h2>
 
 
-<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a>
+<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg></a>  
 
-[LinkedIn](https://python.org/)
 
 [Blog](https://python.org/)
 
