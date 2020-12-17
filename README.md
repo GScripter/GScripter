@@ -2,15 +2,15 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* I am [Gabriel Santos](https://www.linkedin.com/in/dipto-chakrabarty/) :blush:	 . Currently I am a third year student from VIT Vellore in Computer Science with specialization in Information Security :satellite:
+* Hello, I'm [Gabriel Santana](python.org), self-taught in love with technology, always trying to overcome myself.
 
-* I am a Devops and Python Developer Intern at @machaao :toolbox: , MicroSoft Student Partner and Projects Lead at CodeChefVIT :sparkles:.
+* I am a Full Stack Developer being able to build from simple to complex systems.  Having several projects in the area ranging from blogs to complex E-commerce.
 
-* I have done multiple projects ranging from the field of Devops , Backend to Cloud Computing and Automation :file_cabinet: .
+* I am currently improving my skills and plan to learn Bootstrap and Javascript.
 
-* I am currently brushing up my skills and plan to learn Golang and Terraform .
-
-* I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
+* I am willing to work on freelance projects and I love to contribute to open source projects.
+ 
+* In this profile of mine on Github you will see some of my work, ways of contact and also find out a little more about me, feel free to contact me even if it is just to answer questions.
 
 
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/dipto-chakrabarty/) :sparkler:
