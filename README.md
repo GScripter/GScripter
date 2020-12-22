@@ -22,10 +22,10 @@
 * CSS
 * GIT
 * GITHUB
-* Linux
+* LINUX
 * PYTHON
 * DJANGO
-* Heroku
+* HEROKU
 * GOOGLE ANALYTICS
 
 
