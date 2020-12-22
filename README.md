@@ -22,9 +22,12 @@
 * CSS
 * GIT
 * GITHUB
+* Linux
 * PYTHON
 * DJANGO
+* Heroku
 * GOOGLE ANALYTICS
+
 
 <h2>You can reach me at :alien:</h2>
 
