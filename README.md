@@ -10,7 +10,7 @@
 
 * I am willing to work on freelance projects and I love to contribute to open source projects.
  
-* Here you will see some of my work, ways of contact and also find out a little more about me, feel free to contact me even if it is just to answer questions.
+* Here you will see somethings I have already developed, ways to contact me and also find out a little more about me, feel free to contact me to answer questions.
 
 
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](python.org) :sparkler:
