@@ -2,15 +2,15 @@
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* Hello, I'm [Gabriel Santana](python.org), self-taught in love with technology, always trying to overcome myself.
+* Hello, I'm [Gabriel Santana](python.org), self-taught in love with technology, always trying improve more each day.
 
-* I am a Full Stack Developer being able to build from simple to complex systems.  Having several projects in the area ranging from blogs to complex E-commerce.
+* I am a Full Stack Developer being able to build from simple to complex systems. I have several projects in the area ranging from blogs to complex E-commerce.
 
-* I am currently improving my skills and plan to learn Bootstrap and Javascript.
+* I am currently improving my skills and planning to learn Bootstrap and Javascript.
 
 * I am willing to work on freelance projects and I love to contribute to open source projects.
  
-* In this profile of mine on Github you will see some of my work, ways of contact and also find out a little more about me, feel free to contact me even if it is just to answer questions.
+* Here you will see some of my work, ways of contact and also find out a little more about me, feel free to contact me even if it is just to answer questions.
 
 
 * Connect with me on LinkeDin :fireworks: [LinkeDin Profile](python.org) :sparkler:
