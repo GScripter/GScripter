@@ -19,7 +19,7 @@
 ## Tech Stack :computer:
 
 * HTML
-* CSS
+* CSS (FLEXBOX, GRID)
 * GIT
 * GITHUB
 * LINUX
@@ -27,7 +27,6 @@
 * DJANGO
 * HEROKU
 * GOOGLE ANALYTICS
-
 
 <h2>You can reach me at :alien:</h2>
 
