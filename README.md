@@ -13,7 +13,7 @@
 * Here you will see somethings I have already developed, ways to contact me and also find out a little more about me, feel free to contact me to answer questions.
 
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](python.org) :sparkler:
+* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gabriel-santana-485767203) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -33,7 +33,7 @@
 <h2>You can reach me at :alien:</h2>
 
 
-<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>
+<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>
 
 
 
