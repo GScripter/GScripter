@@ -33,7 +33,7 @@
 <h2>You can reach me at :alien:</h2>
 
 
-<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="encurtador.com.br/dfis6"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>
+<a href="https://www.facebook.com/speedboy.speed.737"><img width=35 src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/gabriel_santana8975?igshid=52xsr6i7p0pc"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://encurtador.com.br/dfis6"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a>
 
 
 
