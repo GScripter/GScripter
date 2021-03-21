@@ -28,6 +28,7 @@
 * HEROKU
 * CLOUDINARY
 * GOOGLE ANALYTICS
+* WEB DESIGNER
 * VIMSCRIPT
 
 <h2>You can reach me at :alien:</h2>
