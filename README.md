@@ -18,18 +18,15 @@
 
 ## Tech Stack :computer:
 
-* HTML5
-* CSS3 (FLEXBOX, GRID)
-* GIT
-* GITHUB
-* LINUX
 * PYTHON
 * DJANGO
-* HEROKU
-* CLOUDINARY
+* HTML
+* CSS
+* GIT / GITHUB
 * GOOGLE ANALYTICS
 * WEB DESIGNER
-* VIMSCRIPT
+* LINUX
+* INGLÊS (INTERMEDIÁRIO)
 
 <h2>You can reach me at :alien:</h2>
 
