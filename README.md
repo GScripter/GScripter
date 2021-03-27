@@ -24,7 +24,7 @@
 * CSS
 * GIT / GITHUB
 * GOOGLE ANALYTICS
-* WEB DESIGNER
+* WEB DESIGN
 * LINUX
 
 <h2>You can reach me at :alien:</h2>
