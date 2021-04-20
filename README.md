@@ -6,7 +6,7 @@
 
 * I am a Full Stack Developer being able to build from simple to complex systems. I have several projects in the area ranging from blogs to complex E-commerce.
 
-* I am currently improving my skills and planning to learn Bootstrap and Javascript.
+* I am currently improving my skills and planning to learn SQL and POSTGRESQL.
 
 * I am willing to work on freelance projects and I love to contribute to open source projects.
  
