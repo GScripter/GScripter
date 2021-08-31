@@ -25,6 +25,7 @@
 * GIT / GITHUB
 * GOOGLE ANALYTICS
 * LINUX
+* VIMSCRIPT
 
 <h2>You can reach me at :alien:</h2>
 
