@@ -18,15 +18,15 @@
 
 ## Tech Stack :computer:
 
-* PYTHON
-* DJANGO
 * HTML
 * CSS
+* JAVASCRIPT
+* PYTHON
+* DJANGO
 * GIT / GITHUB
-* INTEGRAÇÃO DE APIS PÚBLICAS
-* GOOGLE ANALYTICS
 * LINUX
 * VIMSCRIPT
+* GOOGLE ANALYTICS
 
 <h2>You can reach me at :alien:</h2>
 
