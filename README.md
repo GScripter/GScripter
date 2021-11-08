@@ -30,7 +30,7 @@
 
 <h2>You can reach me at :alien:</h2>
 
-<a href=""><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href=""><img width=35 src="https://cdn.worldvectorlogo.com/logos/telegram.svg"></a>     
+<a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/telegram.svg"></a>     
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
