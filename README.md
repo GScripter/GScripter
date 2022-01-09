@@ -1,10 +1,9 @@
-
 <h1 align="center"> Hello There 👋 </h1>
 
 
-* Hello, I'm [Gabriel Santana](python.org), self-taught in love with technology, always trying improve more each day.
+* Hello, I'm [Gabriel Santana](https://gabrielsantana.herokuapp.com/), self-taught in love with technology, always trying improve more each day.
 
-* I am a Full Stack Developer being able to build from simple to complex systems. I have several projects in the area ranging from blogs to complex E-commerce.
+* I am a Web Developer being able to build from simple to complex systems. I have several projects in the area ranging from blogs to complex E-commerce.
 
 * I am currently improving my skills and planning to learn SQL and POSTGRESQL.
 
@@ -21,6 +20,7 @@
 * HTML
 * CSS
 * JAVASCRIPT
+* BOOTSTRAP
 * PYTHON
 * DJANGO
 * GIT / GITHUB
