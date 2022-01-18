@@ -3,9 +3,6 @@
 My name is [Gabriel Santana](https://www.linkedin.com/in/gabrielsantana444), I'm passionate about Technology 💻, capable of developing modern and high quality interfaces, focused on performance, animations, responsiveness and SEO. I find it very easy to learn new things, "perhaps for this reason I have adapted so well in this area". And my goal is transforming the world through technology, bringing sophisticated solutions to serve everyone.             
 
 
-Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gabrielsantana444) :sparkler:
-
-
 ## Tech Stack :computer:
 
 * HTML
