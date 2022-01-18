@@ -1,18 +1,9 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-
-* Hello, I'm [Gabriel Santana](https://gabrielsantana.herokuapp.com/), self-taught in love with technology, always trying improve more each day.
-
-* I am a Web Developer being able to build from simple to complex systems. I have several projects in the area ranging from blogs to complex E-commerce.
-
-* I am currently improving my skills and planning to learn SQL and POSTGRESQL.
-
-* I am willing to work on freelance projects and I love to contribute to open source projects.
- 
-* Here you will see somethings I have already developed, ways to contact me and also find out a little more about me, feel free to contact me to answer questions.
+My name is [Gabriel Santana](https://www.linkedin.com/in/gabrielsantana444), I'm passionate about Technology 💻, capable of developing modern and high quality interfaces, focused on performance, animations, responsiveness and SEO. I find it very easy to learn new things, "perhaps for this reason I have adapted so well in this area". And my goal is transforming the world through technology, bringing sophisticated solutions to serve everyone.             
 
 
-* Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gabriel-santana-485767203) :sparkler:
+Connect with me on LinkeDin :fireworks: [LinkeDin Profile](https://www.linkedin.com/in/gabrielsantana444) :sparkler:
 
 
 ## Tech Stack :computer:
@@ -28,9 +19,13 @@
 * VIMSCRIPT
 * GOOGLE ANALYTICS
 
-<h2>You can reach me at :alien:</h2>
+<h2>Where can you find me: :alien:</h2>
 
-<a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/gabriel-santana-485767203"><img width=35 src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/whatsapp-symbol.svg"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="#"><img width=35 src="https://cdn.worldvectorlogo.com/logos/telegram.svg"></a>     
+Linkedin: https://www.linkedin.com/in/gabrielsantana444
+
+Portfolio: https://gabrielsantana.herokuapp.com/
+
+Email: gabrielsantana9807@gmail.com
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
