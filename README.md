@@ -22,6 +22,7 @@
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-google-analytics-48_ljvtvz" alt="google analytics logo">
 <img src="https://img.icons8.com/fluency/48/null/figma.png" alt="figma logo">
 <img src="https://img.icons8.com/fluency/48/null/canva-app.png"/>
+<img src="https://img.icons8.com/color/48/null/docker.png"/>
 </p>
   
 <h2 align="center">Github stats 📌</h2>
@@ -37,7 +38,7 @@
 
 <p align="center">
 <a href="https://wa.me/5583982187309?text=Bom+dia%2C+Gostaria+de+contratar+seus+servi%C3%A7os."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
-<a href="https://gabrielsantana.herokuapp.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
+<a href="https://gabrielsantana.online"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"></a>
 <a href="https://www.linkedin.com/in/gabrielsantana444"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="mailto:gabrielsantana9807@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
