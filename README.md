@@ -18,10 +18,7 @@
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-git-48_yfgmcu" alt="git logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-github-48_znppps" alt="github logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-linux-48_whxfao" alt="linux logo">
-<img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/VimScript_nx9ozn" alt="vimscript logo" width=44>
-<img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-google-analytics-48_ljvtvz" alt="google analytics logo">
 <img src="https://img.icons8.com/fluency/48/null/figma.png" alt="figma logo">
-<img src="https://img.icons8.com/fluency/48/null/canva-app.png"/>
 <img src="https://img.icons8.com/color/48/null/docker.png"/>
 </p>
   
