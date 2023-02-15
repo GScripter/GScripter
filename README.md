@@ -11,6 +11,7 @@
 <p>
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-html-5-48_swrshn" alt="html logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-css3-48_uuxlyk" alt="css logo">
+<img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-sass-480_kmrvsl" width=48>
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-javascript-48_axq6xy" alt="javascript logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-bootstrap-48_dlc2j5" alt="bootstrap logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-python-48_ptrbhz" alt="python logo">
