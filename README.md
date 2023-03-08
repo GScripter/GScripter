@@ -26,11 +26,11 @@
 <h2 align="center">Github stats 📌</h2>
 <p align="center">
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=GabrielSantos198&show_icons=true&theme=radical" alt="Gabriel :: Profile Stats" />
- <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos198&langs_count=10&theme=tokyonight&layout=compact" alt="Gabriel :: Top Langs" />
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos198&langs_count=10&theme=tokyonight&layout=compact" alt="Gabriel :: Top Langs" />
 </p>
 
 <h2 align="center">Contribution Graph :bar_chart:</h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=GabrielSantos198&theme=react-dark" alt="Download...">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSantos198&theme=react-dark" alt="Download...">
 
 <h2 align="center">Where can you find me: :alien:</h2>
 
