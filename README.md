@@ -21,6 +21,7 @@
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-linux-48_whxfao" alt="linux logo">
 <img src="https://img.icons8.com/fluency/48/null/figma.png" alt="figma logo">
 <img src="https://img.icons8.com/color/48/null/docker.png"/>
+<img src="https://img.icons8.com/clouds/50/null/api.png"/>
 </p>
   
 <h2 align="center">Github stats 📌</h2>
