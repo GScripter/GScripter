@@ -8,7 +8,7 @@
 
 ## Tech Stack :computer:
 
-<p>
+<p align="center">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-html-5-48_swrshn" alt="html logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-css3-48_uuxlyk" alt="css logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-sass-480_kmrvsl" width=48>
@@ -16,11 +16,13 @@
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-bootstrap-48_dlc2j5" alt="bootstrap logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-python-48_ptrbhz" alt="python logo">
 <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-filled-tal-revivo.png" alt="django logo" width=44>
+<img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-postgreesql-200_i6dt9m" alt="PostgreSQL logo" width=44>
+<img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-sql-64_wx7tah" alt="SQL logo" width=44>
+<img src="https://img.icons8.com/color/48/null/docker.png"/>
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-git-48_yfgmcu" alt="git logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-github-48_znppps" alt="github logo">
 <img src="https://res.cloudinary.com/degkn8uwg/image/upload/v1/media-portfolio/logo/icons8-linux-48_whxfao" alt="linux logo">
 <img src="https://img.icons8.com/fluency/48/null/figma.png" alt="figma logo">
-<img src="https://img.icons8.com/color/48/null/docker.png"/>
 </p>
   
 <h2 align="center">Github stats 📌</h2>
