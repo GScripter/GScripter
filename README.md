@@ -1,10 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <h1 align="center">
   Hello There
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40>
 </h1>
 
 <p align="center">My name is <a href="https://www.linkedin.com/in/gabrielsantana444">Gabriel Santana</a>, I'm passionate about Technology 💻, capable of developing modern and high quality interfaces, focused on performance, animations, responsiveness and SEO. I find it very easy to learn new things, "perhaps for this reason I have adapted so well in this area". And my goal is transforming the world through technology, bringing sophisticated solutions to serve everyone.</p>          
-
 
 ## Tech Stack :computer:
 
@@ -27,12 +28,12 @@
   
 <h2 align="center">Github stats 📌</h2>
 <p align="center">
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=GabrielSantos198&show_icons=true&theme=radical" alt="Gabriel :: Profile Stats" />
-<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSantos198&langs_count=10&theme=tokyonight&layout=compact" alt="Gabriel :: Top Langs" />
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=GScripter&show_icons=true&theme=radical" alt="Gabriel :: Profile Stats" />
+<img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=GScripter&langs_count=10&theme=tokyonight&layout=compact" alt="Gabriel :: Top Langs" />
 </p>
 
 <h2 align="center">Contribution Graph :bar_chart:</h2>
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GabrielSantos198&theme=react-dark" alt="Download...">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=GScripter&theme=react-dark" alt="Download...">
 
 <h2 align="center">Where can you find me: :alien:</h2>
 
@@ -42,3 +43,5 @@
 <a href="https://www.linkedin.com/in/gabrielsantana444"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="mailto:gabrielsantana9807@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
